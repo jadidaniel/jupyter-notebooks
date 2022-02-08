@@ -15,3 +15,8 @@
 3. **"Medical Insurance" Project**
 
     The goal of this project is to analyze various attributes within **insurance.csv**, using python, to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
+
+
+4. **"Graphs and Charts for Teacher" Project**
+
+    The goal of this project is to create some graphs to help a high school math teacher, using Matplotlib and a bit of NumPy.
