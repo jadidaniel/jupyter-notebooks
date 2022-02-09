@@ -14,7 +14,7 @@
     
 2.**"Reggie Linear Regression"**
 
-    Modules to be used: loops, lists as well as basic arithmetic. The goal is to create a function that will find a line of best fit on the Linear Regression graph when given a set of data.
+    The goal is to create a function that will find a line of best fit on the Linear Regression graph when given a set of data. Modules to be used: loops, lists as well as basic arithmetic. 
     
 
 1.**"Frida Calo"**
