@@ -15,7 +15,7 @@ The goal of this project is to analyze various attributes within **insurance.csv
 
 -----------------------
     
-### 2.**"Reggie Linear Regression"**
+### 2.**"Linear Regression"**
 
 The goal is to create a function that will find a line of best fit on the Linear Regression graph when given a set of data. Modules to be used: loops, lists as well as basic arithmetic. 
     
