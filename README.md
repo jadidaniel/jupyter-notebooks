@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 5.**"Petal Power Store Inventory"**
+
+The goal of this project is to help to analyze a shop-inventory,  using Pandas, for a chain of gardening stores called Petal Power.
+
+-----------------------
+
 ### 4.**"Graphs and Charts for Teacher"**
 
 The goal of this project is to create some graphs to help a high school math teacher, using Matplotlib and a bit of NumPy.
