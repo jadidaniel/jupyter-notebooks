@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 6."A/B Testing for ShoeFly.com"
+
+The goal of this project to analyze the data using Pandas aggregate measures for an online shoe store ShoeFly.com that is performing an A/B testing.
+
+-----------------------
+
 ### 5."Petal Power Store Inventory"
 
 The goal of this project is to help to analyze a shop-inventory,  using Pandas, for a chain of gardening stores called Petal Power.
