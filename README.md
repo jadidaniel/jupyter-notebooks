@@ -5,7 +5,7 @@
 
 ### 6."A/B Testing for ShoeFly.com"
 
-The goal of this project to analyze the data using Pandas aggregate measures for an online shoe store ShoeFly.com that is performing an A/B testing.
+The goal of this project is to analyze the data, using Pandas aggregate measures, for an online shoe store ShoeFly.com that is performing an A/B testing.
 
 -----------------------
 
