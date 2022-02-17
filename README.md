@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 7. "Page Visits Funnel"
+
+The goal of this project is to analyze data on visits to a website of Cool T-Shirts Inc by building a funnel via Pandas.
+
+-----------------------
+
 ### 6."A/B Testing for ShoeFly.com"
 
 The goal of this project is to analyze the data, using Pandas aggregate measures, for an online shoe store ShoeFly.com that is performing an A/B testing.
