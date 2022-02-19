@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 8. "isualizing World Cup Data"
+
+The goal of this project is using Seaborn explore data from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about football game.
+
+-----------------------
+
 ### 7. "Page Visits Funnel"
 
 The goal of this project is to analyze data on visits to a website of Cool T-Shirts Inc by building a funnel via Pandas.
