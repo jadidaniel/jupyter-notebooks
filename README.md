@@ -3,7 +3,13 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### 8. "isualizing World Cup Data"
+### 9. "Chocolate Scraping with Beautiful Soup"
+
+The goal of this project is to analyze and manipulate data displayed in a table on a website: `https://content.codecademy.com/courses/beautifulsoup/cacao/index.html`, using BeautifulSoup and pandas that should help us transform this webpage into a DataFrame.
+
+-----------------------
+
+### 8. "Visualizing World Cup Data"
 
 The goal of this project is using Seaborn explore data from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about football game.
 
