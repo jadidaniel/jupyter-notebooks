@@ -3,45 +3,45 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### 9. "Chocolate Scraping with Beautiful Soup"
+### 9. "Life expectancy by country"
+
+The goal of this project is to investigate a dataset containing information about the average life expectancy in 158 different countries and, using statistical instruments, analyse an example country's location on a GDP scale based on the average life expectancy of this country.
+
+-----------------------
+
+### 8. "Chocolate Scraping with Beautiful Soup"
 
 The goal of this project is to analyze and manipulate data displayed in a table on a website: `https://content.codecademy.com/courses/beautifulsoup/cacao/index.html`, using BeautifulSoup and pandas that should help us transform this webpage into a DataFrame.
 
 -----------------------
 
-### 8. "Visualizing World Cup Data"
+### 7. "Visualizing World Cup Data"
 
 The goal of this project is using Seaborn explore data from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about football game.
 
 -----------------------
 
-### 7. "Page Visits Funnel"
+### 6. "Page Visits Funnel"
 
 The goal of this project is to analyze data on visits to a website of Cool T-Shirts Inc by building a funnel via Pandas.
 
 -----------------------
 
-### 6."A/B Testing for ShoeFly.com"
+### 5."A/B Testing for ShoeFly.com"
 
 The goal of this project is to analyze the data, using Pandas aggregate measures, for an online shoe store ShoeFly.com that is performing an A/B testing.
 
 -----------------------
 
-### 5."Petal Power Store Inventory"
+### 4."Petal Power Store Inventory"
 
 The goal of this project is to help to analyze a shop-inventory,  using Pandas, for a chain of gardening stores called Petal Power.
 
 -----------------------
 
-### 4."Graphs and Charts for Teacher"
+### 3."Graphs and Charts for Teacher"
 
 The goal of this project is to create some graphs to help a high school math teacher, using Matplotlib and a bit of NumPy.
-
------------------------
-    
-### 3."Medical Insurance"
-
-The goal of this project is to analyze various attributes within **insurance.csv**, using python, to learn more about the patient information in the file and gain insight into potential use cases for the dataset.   
 
 -----------------------
     
