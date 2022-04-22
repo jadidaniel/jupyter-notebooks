@@ -3,9 +3,15 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### Traveling to Acadia
+### 12.  Healthcare in Different States
 
-The goal of this project is to inform customers of a travel agency about the best time to visit one of best destinations to see flowers in bloom - Acadia, Maine. We will use flower bloom data, and flight information to create visualisation and recommend the best time of year for someone to make a trip to Maine.
+In this project, we will use boxplots to investigate the way hospitals in different states across the United States charge their patients for medical procedures.
+
+-----------------------
+
+### 11. "Traveling to Acadia"
+
+The goal of this project is to inform customers of a travel agency about the best time to visit Acadia to see flowers in bloom. We will use flower bloom data, and flight information to create visualisation and recommend the best time of year for someone to make a trip to Maine.
 
 -----------------------
 
