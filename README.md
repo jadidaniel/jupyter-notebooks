@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### Traveling to Acadia
+
+The goal of this project is to inform customers of a travel agency about the best time to visit one of best destinations to see flowers in bloom - Acadia, Maine. We will use flower bloom data, and flight information to create visualisation and recommend the best time of year for someone to make a trip to Maine.
+
+-----------------------
+
 ### 10. "Cleaning US Census Data"
 
 The goal of this project is to make US Census data scalable and repeatable, converting data from multiple CSV files to pandas' DataFrames, as well as to collect some interesting insights from it and create informative visualisations as a result. 
