@@ -3,6 +3,10 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 14. Data Transformation: ["Company Transformation"](./data_transformation/company_transformation.ipynb)
+
+The goal of this project is to apply data transformation techniques to better understand the company’s data and help to answer important questions from the management team.
+
 ### 13. Explorative Data Analysis (EDA): ["Diagnosing Diabetes"](./eda_diagnosing_diabetes/eda.ipynb)
 
 The goal of this project is to explore data that looks at how certain diagnostic factors affect the diabetes outcome of women patients. We are going to use EDA skills to help inspect, clean, and validate the data.
