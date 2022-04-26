@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 15. Data Transformation: ["Census Data Types Transformation"](./census_variables/census_variables.ipynb)
+
+The goal of this project is to use pandas to clean, organise and prepare recently collected census data for further usage by machine learning algorithms.
+
+-----------------------
+
 ### 14. Data Transformation: ["Company Transformation"](./data_transformation/company_transformation.ipynb)
 
 The goal of this project is to apply data transformation techniques to better understand the company’s data and help to answer important questions from the management team.
@@ -27,17 +33,18 @@ The goal of this project is to inform customers of a travel agency about the bes
 
 -----------------------
 
-### 10. Data wrangling, tidying and visualisation: ["Cleaning US Census Data"](./us_census_data/cleaning_us_census_data.ipynb)
+### 10. Analysis using statistical instruments: ["Life expectancy by country"](./life_expectancy_by_country/life_expectancy_by_country.ipynb)
+
+The goal of this project is to investigate a dataset containing information about the average life expectancy in 158 different countries and, using statistical instruments, analyse an example country's location on a GDP scale based on the average life expectancy of this country.
+
+-----------------------
+
+### 9. Data wrangling, tidying and visualisation: ["Cleaning US Census Data"](./us_census_data/cleaning_us_census_data.ipynb)
 
 The goal of this project is to make US Census data scalable and repeatable, converting data from multiple CSV files to pandas' DataFrames, as well as to collect some interesting insights from it and create informative visualisations as a result. 
 
 -----------------------
 
-### 9. Analysis using statistical instruments: ["Life expectancy by country"](./life_expectancy_by_country/life_expectancy_by_country.ipynb)
-
-The goal of this project is to investigate a dataset containing information about the average life expectancy in 158 different countries and, using statistical instruments, analyse an example country's location on a GDP scale based on the average life expectancy of this country.
-
------------------------
 
 ### 8. WebScraping with Beautiful Soup: ["Chocolate bars"](./web_scraping_with_BeautifulSoup/chocolate_scraping.ipynb)
 
