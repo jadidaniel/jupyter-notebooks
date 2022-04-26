@@ -3,7 +3,7 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### 15. Data Transformation: ["Census Data Types Transformation"](./census_variables/census_variables.ipynb)
+### 15. Data Transformation: ["Census Data Types Transformation"](./census_datatypes_transform/census_datatypes_transform.ipynb)
 
 The goal of this project is to use pandas to clean, organise and prepare recently collected census data for further usage by machine learning algorithms.
 
