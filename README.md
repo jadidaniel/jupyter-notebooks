@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 16. pandas aggregation functions: ["Jeopardy Game"](./jeopardy/jeopardy_project.ipynb)
+
+The goal of this project is to investigate a dataset of "Jeopardy" game using pandas methods and write several aggregate functions to find some insights. 
+
+-----------------------
+
 ### 15. Data Transformation: ["Census Data Types Transformation"](./census_datatypes_transform/census_datatypes_transform.ipynb)
 
 The goal of this project is to use pandas to clean, organise and prepare recently collected census data for further usage by machine learning algorithms.
