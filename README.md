@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### Statistics Visualisation: ["Roller Coaster"](./visualisations_roller_coaster/roller_coaster.ipynb)
+
+The goal of this project is visualizing data covering international roller coaster rankings and statistics.
+
+-----------------------
+
 ### 16. pandas aggregation functions: ["Jeopardy Game"](./jeopardy/jeopardy_project.ipynb)
 
 The goal of this project is to investigate a dataset of "Jeopardy" game using pandas methods and write several aggregate functions to find some insights. 
