@@ -3,7 +3,7 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### Statistics Visualisation: ["Roller Coaster"](./visualisations_roller_coaster/roller_coaster.ipynb)
+### 17. Statistics Visualisation: ["Roller Coasters Statistics Visualisation"](./visualisations_roller_coaster/roller_coaster.ipynb)
 
 The goal of this project is visualizing data covering international roller coaster rankings and statistics.
 
