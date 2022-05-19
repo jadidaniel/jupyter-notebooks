@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
+### 18. Quantitative and Categorical Variables: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
+
+The goal of this project is to investigate whether there are some correlations between the different aspects of physical and financial parameters and the survival rates of the Titanic passengers.
+
+-----------------------
+
 ### 17. Statistics Visualisation: ["Roller Coasters Statistics Visualisation"](./visualisations_roller_coaster/roller_coaster.ipynb)
 
 The goal of this project is visualizing data covering international roller coaster rankings and statistics.
