@@ -3,7 +3,7 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### 19. Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_tends.ipynb)
+### 19. Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_trends.ipynb)
 
 In this project, we’ll analyze and visualise data from the NBA (National Basketball Association) and explore possible associations.
 
