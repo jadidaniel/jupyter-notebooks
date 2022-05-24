@@ -3,13 +3,19 @@
 
 ## Brief projects' description (ordered descendingly by the completion):
 
-### 18. Quantitative and Categorical Variables: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
+### 19. Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_tends.ipynb)
+
+In this project, we’ll analyze and visualise data from the NBA (National Basketball Association) and explore possible associations.
+
+-----------------------
+
+### 18. Analysis and Visualisation: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
 
 The goal of this project is to investigate whether there are some correlations between the different aspects of physical and financial parameters and the survival rates of the Titanic passengers.
 
 -----------------------
 
-### 17. Statistics Visualisation: ["Roller Coasters Statistics Visualisation"](./visualisations_roller_coaster/roller_coaster.ipynb)
+### 17. Analysis and Visualisation: ["Roller Coasters"](./visualisations_roller_coaster/roller_coaster.ipynb)
 
 The goal of this project is visualizing data covering international roller coaster rankings and statistics.
 
