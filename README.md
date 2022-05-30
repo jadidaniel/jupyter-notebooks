@@ -1,21 +1,27 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains only educational projects that were performed in Jupyter Notebook during my CodeCademy courses. The purpose of each of them is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
-## Brief projects' description (ordered descendingly by the completion):
+## Brief projects' description (ordered from simple to complex):
 
-### 19. Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_trends.ipynb)
+ ### 20. Statistical Analysis and Visualisation: ["Airline Analysis"](./airline_analysis/airline_analysis.ipynb)
+
+In this project, we'll help a travel agency find the best deal for their clients, and we'll understand how ticket prices change based on different factors.
+
+-----------------------
+
+### 19. Statistical Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_trends.ipynb)
 
 In this project, we’ll analyze and visualise data from the NBA (National Basketball Association) and explore possible associations.
 
 -----------------------
 
-### 18. Analysis and Visualisation: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
+### 18. Statistical Analysis and Visualisation: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
 
 The goal of this project is to investigate whether there are some correlations between the different aspects of physical and financial parameters and the survival rates of the Titanic passengers.
 
 -----------------------
 
-### 17. Analysis and Visualisation: ["Roller Coasters"](./visualisations_roller_coaster/roller_coaster.ipynb)
+### 17. Statistical Analysis and Visualisation: ["Roller Coasters"](./visualisations_roller_coaster/roller_coaster.ipynb)
 
 The goal of this project is visualizing data covering international roller coaster rankings and statistics.
 
