@@ -5,7 +5,7 @@
 
  ### 20. Statistical Analysis and Visualisation: ["Airline Analysis"](./airline_analysis/airline_analysis.ipynb)
 
-In this project, we'll help a travel agency find the best deal for their clients, and we'll understand how ticket prices change based on different factors.
+The goal of this project is to guide airline company clients' decisions by providing summary statistics that focus on one, two or several variables and visualise its results. 
 
 -----------------------
 
