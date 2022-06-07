@@ -3,6 +3,16 @@
 
 ## Brief projects' description (ordered from simple to complex):
 
+### 21. Gaming Trends of Twitch
+
+The goal of this project is to snalyse gaming trends with SQL and visualise them with Matplotlib and Seaborn. 
+
+The project is broken down into two parts:
+- [Part 1: Analyse Gaming Data with SQL;](./twitch_data_extraction_and_visualization/twitch_sql_data_extraction.ipynb)
+- Part 2: Visualise Gaming Data with Matplotlib and Seaborn.(TBD)
+
+-----------------------
+
  ### 20. Statistical Analysis and Visualisation: ["Airline Analysis"](./airline_analysis/airline_analysis.ipynb)
 
 The goal of this project is to guide airline company clients' decisions by providing summary statistics that focus on one, two or several variables and visualise its results. 
