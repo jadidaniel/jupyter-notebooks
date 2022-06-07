@@ -1,15 +1,11 @@
 # Educational Projects in Jupyter Notebooks
 **This repository contains educational projects that were conducted based on datasets of CodeCademy. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
-## Brief projects' description (ordered from simple to complex):
+## Brief projects' description (ordered by completion):
 
-### 21. Gaming Trends of Twitch
+### 21. Analysis via SQL and Visualisation: ["Gaming Trends of Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
 
 The goal of this project is to snalyse gaming trends with SQL and visualise them with Matplotlib and Seaborn. 
-
-The project is broken down into two parts:
-- [Part 1: Analyse Gaming Data with SQL;](./twitch_data_extraction_and_visualization/twitch_sql_data_extraction.ipynb)
-- Part 2: Visualise Gaming Data with Matplotlib and Seaborn.(TBD)
 
 -----------------------
 
