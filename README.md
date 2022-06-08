@@ -3,7 +3,7 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 21. Analysis via SQL and Visualisation: ["Gaming Trends of Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
+### 21. Analysis via SQL and Visualisation: ["Gaming Trends on Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
 
 The goal of this project is to snalyse gaming trends with SQL and visualise them with Matplotlib and Seaborn. 
 
