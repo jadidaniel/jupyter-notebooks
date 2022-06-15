@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 22. Natural Languages Processing: ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
+
+The goal of this project is to build a simple Naive Bayes Classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
+
+-----------------------
+
 ### 21. Analysis via SQL and Visualisation: ["Gaming Trends on Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
 
 The goal of this project is to analyse gaming trends with SQL and visualise them with Matplotlib and Seaborn. 
