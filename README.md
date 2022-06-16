@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 23. Natural Languages Processing algorithm combined with Machine Learning algorithms: ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
+
+The goal of this project is to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn` to create a voting system to increase accuracy and reliability of the end confidence percentages of the movie review classification. The training and testing will be done on the Movie Reviews corpora from `nltk.corpus`.
+
+-----------------------
+
 ### 22. Natural Languages Processing: ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
 
 The goal of this project is to build a simple Naive Bayes Classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
