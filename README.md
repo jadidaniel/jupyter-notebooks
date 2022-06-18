@@ -1,11 +1,11 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains educational projects that were conducted based on datasets of CodeCademy and NLTK Toolkit Corpus. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy andgit NLTK Toolkit Corpus. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
 ## Brief projects' description (ordered by completion):
 
 ### 23. Natural Languages Processing algorithm combined with Machine Learning algorithms: ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
 
-The goal of this project is to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn` to create a voting system to increase accuracy and reliability of the end confidence percentages of the movie review classification. The training and testing will be done on the Movie Reviews corpora from `nltk.corpus`.
+The goal of this project is to create a voting system for bivariant sentiment analysis of any type of short reviews. To achieve this we are going to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
 
 -----------------------
 
