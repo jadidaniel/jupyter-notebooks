@@ -1,5 +1,5 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains educational projects that were conducted based on datasets of CodeCademy andgit NLTK Toolkit Corpus. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy and NLTK Toolkit Corpus. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
 ## Brief projects' description (ordered by completion):
 
