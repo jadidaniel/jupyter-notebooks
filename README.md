@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 24. Language parsing: ["Discover Insights into Classic Texts"](./nlp/language_parsing/language_parsing.ipynb)
+
+The goal of this project is to discover the main themes and some other details from the two classic novels: Oscar Wilde’s **"The Picture of Dorian Gray"** and Homer’s **"The Iliad"**.  To achieve it, we are going to use `nltk` methods for preprocessing and creating Tree Data Structures, after which, we will apply filters to those Structures to get some desired insights.
+
+-----------------------
+
 ### 23. Natural Languages Processing algorithm combined with Machine Learning algorithms: ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
 
 The goal of this project is to create a voting system for bivariant sentiment analysis of any type of short reviews. To achieve this we are going to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
