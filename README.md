@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 25. Language quantification: ["U.S.A. Presidential Vocabulary"](./nlp/language_quantification/presidential_vocabulary/us_presidential_vocabulary.ipynb)
+
+The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using word embeddings. By training sets of word embeddings on subsets of inaugural address versus the collection of presidents as a whole, we can learn about the different ways in which the presidents use language to convey their agenda.
+
+-----------------------
+
 ### 24. Language parsing: ["Discover Insights into Classic Texts"](./nlp/language_parsing/language_parsing.ipynb)
 
 The goal of this project is to discover the main themes and some other details from the two classic novels: Oscar Wilde’s **"The Picture of Dorian Gray"** and Homer’s **"The Iliad"**.  To achieve it, we are going to use `nltk` methods for preprocessing and creating Tree Data Structures, after which, we will apply filters to those Structures to get some desired insights.
