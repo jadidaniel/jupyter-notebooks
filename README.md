@@ -5,7 +5,7 @@
 
 ### 25. Language quantification: ["U.S.A. Presidential Vocabulary"](./nlp/language_quantification/presidential_vocabulary/us_presidential_vocabulary.ipynb)
 
-The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using word embeddings. By training sets of word embeddings on subsets of inaugural address versus the collection of presidents as a whole, we can learn about the different ways in which the presidents use language to convey their agenda.
+The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using word embeddings. By training sets of word embeddings on subsets of inaugural addresses, we can learn about the different ways in which the presidents use language to convey their agenda.
 
 -----------------------
 
