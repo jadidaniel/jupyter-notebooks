@@ -3,69 +3,57 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 26. Language quantification: ["News Analysis"](./nlp/language_quantification/news_analysis/language_quantification.ipynb)
+### 24. Language quantification: ["News Analysis"](./nlp/language_quantification/news_analysis/language_quantification.ipynb)
 
 In this project we will use "term frequency-inverse document frequency" (tf-idf) to analyze each article’s content and uncover the terms that best describe each article, providing quick insight into each article’s topic.
 
 -----------------------
 
-### 25. Language quantification: ["U.S.A. Presidential Vocabulary"](./nlp/language_quantification/presidential_vocabulary/us_presidential_vocabulary.ipynb)
+### 23. Language quantification: ["U.S.A. Presidential Vocabulary"](./nlp/language_quantification/presidential_vocabulary/us_presidential_vocabulary.ipynb)
 
 The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using word embeddings. By training sets of word embeddings on subsets of inaugural addresses, we can learn about the different ways in which the presidents use language to convey their agenda.
 
 -----------------------
 
-### 24. Language parsing: ["Discover Insights into Classic Texts"](./nlp/language_parsing/language_parsing.ipynb)
+### 22. Language parsing: ["Discover Insights into Classic Texts"](./nlp/language_parsing/language_parsing.ipynb)
 
 The goal of this project is to discover the main themes and some other details from the two classic novels: Oscar Wilde’s **"The Picture of Dorian Gray"** and Homer’s **"The Iliad"**.  To achieve it, we are going to use `nltk` methods for preprocessing and creating Tree Data Structures, after which, we will apply filters to those Structures to get some desired insights.
 
 -----------------------
 
-### 23. Natural Languages Processing algorithm combined with Machine Learning algorithms: ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
+### 21. Natural Languages Processing algorithm combined with Machine Learning algorithms: ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
 
 The goal of this project is to create a voting system for bivariant sentiment analysis of any type of short reviews. To achieve this we are going to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
 
 -----------------------
 
-### 22. Natural Languages Processing: ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
+### 20. Natural Languages Processing: ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
 
 The goal of this project is to build a simple Naive Bayes Classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
 
 -----------------------
 
-### 21. Analysis via SQL and Visualisation: ["Gaming Trends on Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
+### 19. Analysis via SQL and Visualisation: ["Gaming Trends on Twitch"](./twitch_data_extraction_and_visualization/twitch_data_extraction_and_visualisation.ipynb)
 
 The goal of this project is to analyse gaming trends with SQL and visualise them with Matplotlib and Seaborn. 
 
 -----------------------
 
- ### 20. Statistical Analysis and Visualisation: ["Airline Analysis"](./airline_analysis/airline_analysis.ipynb)
+ ### 18. Statistical Analysis and Visualisation: ["Airline Analysis"](./airline_analysis/airline_analysis.ipynb)
 
 The goal of this project is to guide airline company clients' decisions by providing summary statistics that focus on one, two or several variables and visualise its results. 
 
 -----------------------
 
-### 19. Statistical Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_trends.ipynb)
+### 17. Statistical Analysis and Visualisation: ["NBA Trends"](/associations_nba/nba_trends.ipynb)
 
 In this project, we’ll analyze and visualise data from the NBA (National Basketball Association) and explore possible associations.
 
 -----------------------
 
-### 18. Statistical Analysis and Visualisation: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
+### 16. Statistical Analysis and Visualisation: ["Titanic"](/quant_and_categorical_var/titanic.ipynb)
 
 The goal of this project is to investigate whether there are some correlations between the different aspects of physical and financial parameters and the survival rates of the Titanic passengers.
-
------------------------
-
-### 17. Statistical Analysis and Visualisation: ["Roller Coasters"](./visualisations_roller_coaster/roller_coaster.ipynb)
-
-The goal of this project is visualizing data covering international roller coaster rankings and statistics.
-
------------------------
-
-### 16. pandas aggregation functions: ["Jeopardy Game"](./jeopardy/jeopardy_project.ipynb)
-
-The goal of this project is to investigate a dataset of "Jeopardy" game using pandas methods and write several aggregate functions to find some insights. 
 
 -----------------------
 
