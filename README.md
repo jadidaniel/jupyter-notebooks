@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 25. Supervised Machine Learning (Linear Regression): ["Honey Production"](./ml/suprvised_learning/linear_regression/honey_production.ipynb)
+
+The goal of this project is predicting honey production during upcoming years (till 2050) using Linear Regression Model and simple visualizations. 
+
+-----------------------
+
 ### 24. Language quantification: ["News Analysis"](./nlp/language_quantification/news_analysis/language_quantification.ipynb)
 
 In this project we will use "term frequency-inverse document frequency" (tf-idf) to analyze each article’s content and uncover the terms that best describe each article, providing quick insight into each article’s topic.
