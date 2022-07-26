@@ -3,9 +3,15 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 25. Supervised Machine Learning (Linear Regression): ["Honey Production"](./ml/suprvised_learning/linear_regression/honey_production.ipynb)
+### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/suprvised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
 
-The goal of this project is predicting honey production during upcoming years (till 2050) using Linear Regression Model and simple visualizations. 
+The goal of this project is to gain insight into NYC housing prices applying some statistical methods, as well as to highlight pricing tendencies depending on a range of factors with the help of Multiple Linear Regression Model. 
+
+-----------------------
+
+### 25. Supervised Machine Learning (Simple Linear Regression): ["Honey Production"](./ml/suprvised_learning/linear_regression/simple_linear_regression/honey_production.ipynb)
+
+The goal of this project is predicting honey production during upcoming years (till 2050) using simple Linear Regression Model and some visualizations.
 
 -----------------------
 
