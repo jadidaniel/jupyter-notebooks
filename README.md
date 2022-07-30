@@ -5,7 +5,7 @@
 
 ### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/suprvised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
 
-The goal of this project is to highlight pricing tendencies depending on a range of factors with the help of Multiple Linear Regression Model and visualise results using 2D and 3D graphs. 
+The goal of this project is to get an insight to the range of factors that influence NYC apartments' price formation, predict prices for several random apartments based on these insights with the help of Multiple Linear Regression Model and visualise some results using 2D and 3D graphs.
 
 -----------------------
 
