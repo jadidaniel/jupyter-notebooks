@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 27. Supervised Machine Learning (K-Nearest Neighbor classifier): ["Twitter Classification"](./ml/suprvised_learning/k_nearest_neighbours/twitter_classification.ipynb)
+
+The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbor classifier, the second is to determine whether a tweet was sent from New York, London, or Paris using Naive Bayes classifiers. Therefore, in the first part we'll try to understand what influences tweet's virality most: tweet's length, number of links/hashtags, language or account info. In the second - we will investigate how language is used differently in the tweets within the cities mentioned above.
+
+-----------------------
+
 ### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/suprvised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
 
 The goal of this project is to get an insight to the range of factors that influence NYC apartments' price formation, predict prices for several random apartments based on these insights with the help of Multiple Linear Regression Model and visualise some results using 2D and 3D graphs.
@@ -33,15 +39,15 @@ The goal of this project is to discover the main themes and some other details f
 
 -----------------------
 
-### 21. NLP, Sentiment analysis (Multiple Classifiers): ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
+### 21. NLP, Sentiment analysis (Multiple classifiers): ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
 
 The goal of this project is to create a voting system for bivariant sentiment analysis of any type of short reviews. To achieve this we are going to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
 
 -----------------------
 
-### 20. NLP, Sentiment Analysis (Naive Bayes Classifier): ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
+### 20. NLP, Sentiment Analysis (Naive Bayes classifier): ["Simple Naive Bayes classifier"](./nlp/naive_bayes_classifier.ipynb)
 
-The goal of this project is to build a simple Naive Bayes Classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
+The goal of this project is to build a simple Naive Bayes classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
 
 -----------------------
 
