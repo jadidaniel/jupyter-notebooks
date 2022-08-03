@@ -3,9 +3,9 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 27. Supervised Machine Learning (K-Nearest Neighbor classifier): ["Twitter Classification"](./ml/suprvised_learning/k_nearest_neighbours/twitter_classification.ipynb)
+### 27. Supervised Machine Learning (K-Nearest Neighbor classifier and others): ["Twitter Classification"](./ml/suprvised_learning/k_nearest_neighbours/twitter_classification.ipynb)
 
-The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbor classifier, the second is to determine whether a tweet was sent from New York, London, or Paris using Naive Bayes classifiers. Therefore, in the first part we'll try to understand what influences tweet's virality most: tweet's length, number of links/hashtags, language or account info. In the second - we will investigate how language is used differently in the tweets within the cities mentioned above.
+The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbour classifier. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to them. To even out data gaps we'll apply text augmentation by BERT.
 
 -----------------------
 
