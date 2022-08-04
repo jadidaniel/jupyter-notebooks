@@ -5,7 +5,7 @@
 
 ### 27. Supervised Machine Learning (K-Nearest Neighbor classifier and others): ["Twitter Classification"](./ml/suprvised_learning/k_nearest_neighbours/twitter_classification.ipynb)
 
-The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbour classifier. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to them. To even out data gaps we'll apply text augmentation by BERT.
+The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbour classifier. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to their features. To even out gaps between number of tweets in different cities we'll apply text augmentation by BERT.
 
 -----------------------
 
