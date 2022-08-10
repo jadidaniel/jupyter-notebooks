@@ -1,11 +1,11 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains educational projects that were conducted based on datasets of CodeCademy and NLTK Toolkit Corpus. The purpose of the each is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy (who sometimes took their data from Kaggle) and NLTK Toolkit Corpus. The purpose of each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
 ## Brief projects' description (ordered by completion):
 
 ### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/suprvised_learning/logistic_regression/logistic_regression_titanic.ipynb)
 
-The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class.
+The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class and other relevant parameters.
 
 -----------------------
 
