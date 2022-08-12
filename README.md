@@ -5,7 +5,7 @@
 
 ### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/suprvised_learning/logistic_regression/logistic_regression_titanic.ipynb)
 
-The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class and other relevant parameters.
+The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age, class and other relevant parameters.
 
 -----------------------
 
