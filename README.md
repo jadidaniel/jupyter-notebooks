@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 29. Supervised Machine Learning (Naive Bayes): ["Newsgroups Similarity"](./ml/suprvised_learning/naive_bayes/newsgroups_simularity.ipynb)
+
+In this project we will apply Scikit-learn’s Multinomial Naive Bayes Classifier to Scikit-learn’s example datasets to find which category combinations are harder for it to distinguish. We are going to achieve that by reporting the accuracy of several variations of the classifier that were fit on different categories of newsgroups.
+
+----------------------
+
 ### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/suprvised_learning/logistic_regression/logistic_regression_titanic.ipynb)
 
 The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age, class and other relevant parameters.
