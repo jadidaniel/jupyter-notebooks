@@ -1,7 +1,13 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains educational projects that were conducted based on datasets of CodeCademy (who sometimes took their data from Kaggle) and NLTK Toolkit Corpus. The purpose of each is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy and its partners, NLTK Toolkit Corpus, Kaggle and Scikit-Learn example datasets. The purpose of each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
 ## Brief projects' description (ordered by completion):
+
+### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/suprvised_learning/svm_models/baseball_strike_zones.ipynb)
+
+In this project, we will use a Support Vector Machine Model trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset to find the decision boundary of the strike zone. 
+
+----------------------
 
 ### 29. Supervised Machine Learning (Naive Bayes): ["Newsgroups Similarity"](./ml/suprvised_learning/naive_bayes/newsgroups_simularity.ipynb)
 
