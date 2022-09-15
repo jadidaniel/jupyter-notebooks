@@ -5,7 +5,7 @@
 
 ### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/suprvised_learning/svm_models/baseball_strike_zones.ipynb)
 
-In this project, we will use a Support Vector Machine Model trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset to find the decision boundary of the strike zone. 
+In this project, we will use a Support Vector Machine Models, trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset, to find strike zones decision boundary of players with different physical parameters. 
 
 ----------------------
 
