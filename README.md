@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 31. Supervised Machine Learning (Decision Trees): [Find the Flag](./ml/suprvised_learning/trees/trees_find_flag.ipynb)
+
+In this project, we’ll use decision trees to predict the continent a country is located on based on several features of its flag. 
+
+----------------------
+
 ### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/suprvised_learning/svm_models/baseball_strike_zones.ipynb)
 
 In this project, we will use a Support Vector Machines, trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset, to find strike zones decision boundary of players with different physical parameters.
