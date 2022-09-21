@@ -3,7 +3,7 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 31. Supervised Machine Learning (Decision Trees): [Find the Flag](./ml/suprvised_learning/trees/trees_find_flag.ipynb)
+### 31. Supervised Machine Learning (Decision Trees): ["Predict Continent and Language by Flag"](./ml/suprvised_learning/trees/trees_find_flag.ipynb)
 
 In this project, we’ll use decision trees to predict the continent a country is located on, and its language based on features of its flag and other country's properties. For instance, some colors are good indicators as well as the presence or absence of certain shapes could give one a hint. We’ll explore which features are the best to use to create several decision trees and compare their results. The [**Flags Data Set**](https://archive.ics.uci.edu/ml/datasets/Flags) used in this project is provided by UCI’s Machine Learning Repository.
 
