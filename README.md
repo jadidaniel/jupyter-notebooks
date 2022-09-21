@@ -3,43 +3,43 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 31. Supervised Machine Learning (Decision Trees): ["Predict Continent and Language by Flag"](./ml/suprvised_learning/trees/trees_find_flag.ipynb)
+### 31. Supervised Machine Learning (Decision Trees): ["Predict Continent and Language by Flag"](./ml/supervised_learning/trees/trees_find_flag.ipynb)
 
 In this project, we’ll use decision trees to predict the continent a country is located on, and its language based on features of its flag and other country's properties. For instance, some colors are good indicators as well as the presence or absence of certain shapes could give one a hint. We’ll explore which features are the best to use to create several decision trees and compare their results. The [**Flags Data Set**](https://archive.ics.uci.edu/ml/datasets/Flags) used in this project is provided by UCI’s Machine Learning Repository.
 
 ----------------------
 
-### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/suprvised_learning/svm_models/baseball_strike_zones.ipynb)
+### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/supervised_learning/svm_models/baseball_strike_zones.ipynb)
 
 In this project, we will use a Support Vector Machines, trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset, to find strike zones decision boundary of players with different physical parameters.
 
 ----------------------
 
-### 29. Supervised Machine Learning (Naive Bayes): ["Newsgroups Similarity"](./ml/suprvised_learning/naive_bayes/newsgroups_simularity.ipynb)
+### 29. Supervised Machine Learning (Naive Bayes): ["Newsgroups Similarity"](./ml/supervised_learning/naive_bayes/newsgroups_simularity.ipynb)
 
 In this project we will apply Scikit-learn’s Multinomial Naive Bayes Classifier to Scikit-learn’s example datasets to find which category combinations are harder for it to distinguish. We are going to achieve that by reporting the accuracy of several variations of the classifier that were fit on different categories of newsgroups.
 
 ----------------------
 
-### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/suprvised_learning/logistic_regression/logistic_regression_titanic.ipynb)
+### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/supervised_learning/logistic_regression/logistic_regression_titanic.ipynb)
 
 The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age, class and other relevant parameters.
 
 -----------------------
 
-### 27. Supervised Machine Learning (K-Nearest Neighbor classifier and others): ["Twitter Classification"](./ml/suprvised_learning/k_nearest_neighbours/twitter_classification.ipynb)
+### 27. Supervised Machine Learning (K-Nearest Neighbor classifier and others): ["Twitter Classification"](./ml/supervised_learning/k_nearest_neighbours/twitter_classification.ipynb)
 
 The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbour classifier. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to their features. To even out gaps between number of tweets in different cities we'll apply text augmentation by BERT.
 
 -----------------------
 
-### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/suprvised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
+### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/supervised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
 
 The goal of this project is to get an insight to the range of factors that influence NYC apartments' price formation, predict prices for several random apartments based on these insights with the help of Multiple Linear Regression Model and visualise some results using 2D and 3D graphs.
 
 -----------------------
 
-### 25. Supervised Machine Learning (Simple Linear Regression): ["Honey Production"](./ml/suprvised_learning/linear_regression/simple_linear_regression/honey_production.ipynb)
+### 25. Supervised Machine Learning (Simple Linear Regression): ["Honey Production"](./ml/supervised_learning/linear_regression/simple_linear_regression/honey_production.ipynb)
 
 The goal of this project is predicting honey production during upcoming years (till 2050) using simple Linear Regression Model and some visualizations.
 
