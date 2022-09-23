@@ -1,59 +1,65 @@
 # Educational Projects in Jupyter Notebooks
-**This repository contains educational projects that were conducted based on datasets of CodeCademy and its partners, NLTK Toolkit Corpus, Kaggle and Scikit-Learn example datasets. The purpose of each is to practice individual studying modules and consolidate the result as an active professional skill.**
+**This repository contains educational projects that were conducted based on datasets of CodeCademy and its partners, NLTK Toolkit Corpus, Kaggle, UCI’s Machine Learning Repository, Scikit-Learn example datasets. The purpose of each is to practice individual studying modules and consolidate the result as an active professional skill.**
 
 ## Brief projects' description (ordered by completion):
 
+### 32. Supervised Machine Learning (Ensemble Technique - Random Forest): ["Predicting Income"](./ml/supervised_learning/random_forest/forest_income_project.ipynb)
+
+In this project, we will be using an ensemble machine learning technique - **Random Forest** - on a dataset containing census information from UCI’s Machine Learning Repository. By using census data with a random forest, we will try to predict whether a person makes more than $50,000. 
+
+----------------------
+
 ### 31. Supervised Machine Learning (Decision Trees): ["Predict Continent and Language"](./ml/supervised_learning/trees/trees_find_flag.ipynb)
 
-In this project, we’ll use decision trees to predict the continent a country is located on, and its language based on features of its flag and other country's properties. For instance, some colors are good indicators as well as the presence or absence of certain shapes could give one a hint. We’ll explore which features are the best to use and will create several decision trees to compare their results. The [**Flags Data Set**](https://archive.ics.uci.edu/ml/datasets/Flags) used in this project is provided by UCI’s Machine Learning Repository.
+In this project, we’ll use **Decision Trees** to predict the continent a country is located on, and its language based on features of its flag and other country's properties. For instance, some colors are good indicators as well as the presence or absence of certain shapes could give one a hint. We’ll explore which features are the best to use and will create several Decision Trees to compare their results. The [**Flags Data Set**](https://archive.ics.uci.edu/ml/datasets/Flags) used in this project is provided by UCI’s Machine Learning Repository.
 
 ----------------------
 
 ### 30. Supervised Machine Learning (Support Vector Machines): ["Predict Baseball Strike Zones"](./ml/supervised_learning/svm_models/baseball_strike_zones.ipynb)
 
-In this project, we will use a Support Vector Machines, trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset, to find strike zones decision boundary of players with different physical parameters.
+In this project, we will use a **Support Vector Machines**, trained using a [`pybaseball`](https://github.com/jldbc/pybaseball) dataset, to find strike zones decision boundary of players with different physical parameters.
 
 ----------------------
 
 ### 29. Supervised Machine Learning (Naive Bayes): ["Newsgroups Similarity"](./ml/supervised_learning/naive_bayes/newsgroups_simularity.ipynb)
 
-In this project we will apply Scikit-learn’s Multinomial Naive Bayes Classifier to Scikit-learn’s example datasets to find which category combinations are harder for it to distinguish. We are going to achieve that by reporting the accuracy of several variations of the classifier that were fit on different categories of newsgroups.
+In this project we will apply Scikit-learn’s **Multinomial Naive Bayes Classifier** to Scikit-learn’s example datasets to find which category combinations are harder for it to distinguish. We are going to achieve that by reporting the accuracy of several variations of the classifier that were fit on different categories of newsgroups.
 
 ----------------------
 
 ### 28. Supervised Machine Learning (Logistic Regression): ["Chances of Survival on Titanic"](./ml/supervised_learning/logistic_regression/logistic_regression_titanic.ipynb)
 
-The goal of this project is to create a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age, class and other relevant parameters.
+The goal of this project is to create a **Logistic Regression Model** that predicts which passengers survived the sinking of the Titanic, based on features like age, class and other relevant parameters.
 
 -----------------------
 
 ### 27. Supervised Machine Learning (K-Nearest Neighbor classifier and others): ["Twitter Classification"](./ml/supervised_learning/k_nearest_neighbours/twitter_classification.ipynb)
 
-The first goal of this project is to predict whether a tweet will go viral using a K-Nearest Neighbour classifier. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to their features. To even out gaps between number of tweets in different cities we'll apply text augmentation by BERT.
+The first goal of this project is to predict whether a tweet will go viral using a **K-Nearest Neighbour Classifier**. The second is to determine whether a tweet was sent from New York, London, or Paris using Logistic Regression and Naive Bayes classifiers with vectorization of different sparsity levels applied to their features. To even out gaps between number of tweets in different cities we'll apply text augmentation by BERT.
 
 -----------------------
 
 ### 26. Supervised Machine Learning (Multiple Linear Regression): ["Tendencies of Housing Prices in NYC"](./ml/supervised_learning/linear_regression/multiple_linear_regression/prices_tendencies_for_housing.ipynb)
 
-The goal of this project is to get an insight to the range of factors that influence NYC apartments' price formation, predict prices for several random apartments based on these insights with the help of Multiple Linear Regression Model and visualise some results using 2D and 3D graphs.
+The goal of this project is to get an insight to the range of factors that influence NYC apartments' price formation, predict prices for several random apartments based on these insights with the help of **Multiple Linear Regression Model** and visualise some results using 2D and 3D graphs.
 
 -----------------------
 
 ### 25. Supervised Machine Learning (Simple Linear Regression): ["Honey Production"](./ml/supervised_learning/linear_regression/simple_linear_regression/honey_production.ipynb)
 
-The goal of this project is predicting honey production during upcoming years (till 2050) using simple Linear Regression Model and some visualizations.
+The goal of this project is predicting honey production during upcoming years (till 2050) using **Simple Linear Regression Model** and some visualizations.
 
 -----------------------
 
 ### 24. NLP, Feature Modeling (tf-idf): ["News Analysis"](./nlp/language_quantification/news_analysis/language_quantification.ipynb)
 
-In this project we will use "term frequency-inverse document frequency" (tf-idf) to analyze each article’s content and uncover the terms that best describe each article, providing quick insight into each article’s topic.
+In this project we will use **"term frequency-inverse document frequency"** (tf-idf) to analyze each article’s content and uncover the terms that best describe each article, providing quick insight into each article’s topic.
 
 -----------------------
 
 ### 23. NLP, Feature Modeling (Word Embeddings): ["U.S.A. Presidential Vocabulary"](./nlp/language_quantification/presidential_vocabulary/us_presidential_vocabulary.ipynb)
 
-The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using word embeddings. By training sets of word embeddings on subsets of inaugural addresses, we can learn about the different ways in which the presidents use language to convey their agenda.
+The goal of this project is to analyze the inaugural addresses of the presidents of the United States of America using **word embeddings**. By training sets of word embeddings on subsets of inaugural addresses, we can learn about the different ways in which the presidents use language to convey their agenda.
 
 -----------------------
 
@@ -63,15 +69,15 @@ The goal of this project is to discover the main themes and some other details f
 
 -----------------------
 
-### 21. NLP, Sentiment analysis (Multiple classifiers): ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
+### 21. NLP (Sentiment Analysis), Supervised Machine Learning (Ensemble Technique): ["Voting System"](./nlp/voting_system/nltk_scikitlearn_combined.ipynb)
 
-The goal of this project is to create a voting system for bivariant sentiment analysis of any type of short reviews. To achieve this we are going to combine Naive Bayes algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
+The goal of this project is to create a voting system for *bivariant sentiment analysis* of any type of short reviews. To achieve this we are going to combine **Naive Bayes** algorithm from `nltk` and similar algorithms from `scikit-learn`. This combination should increase the accuracy and reliability of the confidence percentages.
 
 -----------------------
 
-### 20. NLP, Sentiment Analysis (Naive Bayes classifier): ["Simple Naive Bayes classifier"](./nlp/naive_bayes_classifier.ipynb)
+### 20. NLP, Sentiment Analysis (Naive Bayes Classifier): ["Simple Naive Bayes Classifier"](./nlp/naive_bayes_classifier.ipynb)
 
-The goal of this project is to build a simple Naive Bayes classifier using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
+The goal of this project is to build a simple **Naive Bayes Classifier** using `nltk toolkit`, and after that: train and test it on Movie Reviews corpora from `nltk.corpus`.
 
 -----------------------
 
