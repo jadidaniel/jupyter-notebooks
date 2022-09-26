@@ -5,7 +5,7 @@
 
 ### 32. Supervised Machine Learning (Ensemble Technique - Random Forest): ["Predicting Income"](./ml/supervised_learning/random_forest/forest_income_project.ipynb)
 
-In this project, we will be using an ensemble machine learning technique - **Random Forest** - on a dataset containing census information from UCI’s Machine Learning Repository. By using census data with a random forest, we will try to predict whether a person makes more than $50,000. 
+In this project, we will be using an ensemble machine learning technique - **Random Forest** - on a dataset containing [census information from UCI’s Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult/). By using census data with a random forest, we will try to predict whether a person makes more than $50,000. 
 
 ----------------------
 
