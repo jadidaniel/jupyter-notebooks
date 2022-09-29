@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 33. Unsupervised Learning (K-Means++): ["Handwriting Recognition"](./ml/unsupervised_learning/k_means/k_means_handwriting_rec.ipynb)
+
+In this project, we will be using **K-Means++** clustering algorithm in scikit-learn inplementation on sklearn digits dataset to cluster images of handwritten digits.
+
+----------------------
+
 ### 32. Supervised Machine Learning (Ensemble Technique - Random Forest): ["Predicting Income"](./ml/supervised_learning/random_forest/forest_income_project.ipynb)
 
 In this project, we will be using an ensemble machine learning technique - **Random Forest**. We are going to compare its performance with **Dicision Tree** algorithm, on a dataset containing [census information from UCI’s Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult/). By using census data with a Random Forest and Dicision Tree, we will try to predict whether a person makes more than $50,000.
