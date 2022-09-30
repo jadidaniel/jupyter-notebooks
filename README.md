@@ -180,7 +180,7 @@ The goal of this project is to analyze the data, using Pandas aggregate measures
 
 ### 4. Analysis via pandas: ["Petal Power Store Inventory"](./petal_power_inventory/petal_power_inventory.ipynb)
 
-The goal of this project is to help to analyze a shop-inventory,  using pandas, for a chain of gardening stores called Petal Power.
+The goal of this project is to help to analyze a shop-inventory, using pandas, for a chain of gardening stores called Petal Power.
 
 -----------------------
 
