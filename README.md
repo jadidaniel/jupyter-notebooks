@@ -3,6 +3,12 @@
 
 ## Brief projects' description (ordered by completion):
 
+### 34. SQL (Windows Functions): ["Climate Change"](./sql/windows_functions/climate_change.ipynb)
+
+The goal of this project is to practice SQL windows functions, ascertaining different climate change insights within "Global Land and Ocean Temperatures" dataset in the process.
+
+----------------------
+
 ### 33. Unsupervised Learning (K-Means++): ["Handwriting Recognition"](./ml/unsupervised_learning/k_means/k_means_handwriting_rec.ipynb)
 
 In this project, we will be using **K-Means++** clustering algorithm in scikit-learn inplementation on sklearn digits dataset to cluster images of handwritten digits.
